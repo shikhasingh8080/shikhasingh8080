@@ -1,4 +1,5 @@
-# 💫 About Me:
+ About Me:
+ 
 I am a 3rd Year B.Sc IT Student passionate about <br>technology and learning new skills.  <br>Basic Languages & Skills : Python, Java.
 
 
@@ -13,6 +14,6 @@ I am a 3rd Year B.Sc IT Student passionate about <br>technology and learning new
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shikhasingh8080&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=shikhasingh8080&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
